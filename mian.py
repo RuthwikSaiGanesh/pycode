@@ -1,1 +1,3 @@
-printf("Hello from my first GitHub repo!'
+def hello():
+ print("hi")
+  print("world")
